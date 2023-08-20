@@ -1,5 +1,8 @@
 # CryoTanks :: Change Log
 
+* 2022-0921: 1.6.5 (Nertea) for KSP 1.11
+	+ Fixed shader on 3.75m hydrogen tank
+	+ Update Procedural Parts patches (Scialytic)
 * 2022-0122: 1.6.4 (Nertea) for KSP 1.11
 	+ Bugfixes
 * 2021-1026: 1.6.3 (Nertea) for KSP 1.11
