@@ -1,5 +1,11 @@
 # CryoTanks :: Change Log
 
+* 2021-0222: 1.6.0 (Nertea) for KSP 1.11
+	+ Updated DynamicBatteryStorage to 2.2.2
+	+ Methalox tankage is now enabled by default
+	+ Adjusted localization to generalize new tanks to 'cryogenic fuels' rather than liquid hydrogen only
+	+ Balance tuning for methalox tankage
+	+ Global patch does not patch tanks with WBIOmniStorage
 * 2021-0114: 1.5.6 (Nertea) for KSP 1.11
 	+ Fix for KSP <1.11
 * 2020-1223: 1.5.5 (Nertea) for KSP 1.11
