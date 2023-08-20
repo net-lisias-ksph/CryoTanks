@@ -1,5 +1,7 @@
 # CryoTanks :: Change Log
 
+* 2021-1026: 1.6.3 (Nertea) for KSP 1.11
+	+ Bugfixes
 * 2021-1007: 1.6.2 (Nertea) for KSP 1.11
 	+ Refactored boiloff code
 	+ Catchup calculation is more robust
