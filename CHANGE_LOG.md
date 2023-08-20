@@ -1,5 +1,7 @@
 # CryoTanks :: Change Log
 
+* 2020-0513: 1.5.1 (Nertea) for KSP 1.8.
+	+ Fixed a testing flag being left on in 1.5.0
 * 2020-0503: 1.5.0 (Nertea) for KSP 1.8.
 	+ Updated DynamicBatteryStorage to 2.1.6
 	+ Updated B9PartSwitch to 2.16.0
