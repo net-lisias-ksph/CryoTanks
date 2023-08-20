@@ -1,5 +1,11 @@
 # CryoTanks :: Change Log
 
+* 2020-0220: 1.4.1 (Nertea) for KSP 1.8.
+	+ KSP 1.8.x
+	+ Updated B9PartSwitch to 2.13.0
+	+ Updated DynamicBatteryStorage to 2.1.5
+	+ Updated ModuleManger to 4.1.3
+	+ Updated Chinese localization (tinygrox)
 * 2019-1106: 1.4.0 (Nertea) for KSP 1.8.
 	+ KSP 1.8.x
 	+ Updated B9PartSwitch to 2.12.1
