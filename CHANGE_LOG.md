@@ -1,5 +1,8 @@
 # CryoTanks :: Change Log
 
+* 2020-1223: 1.5.5 (Nertea) for KSP 1.11
+	+ Fixed a problem in the MFT patch that broke the mod
+	+ Updated CRP to 1.4.2
 * 2020-1220: 1.5.4 (Nertea) for KSP 1.11
 	+ KSP 1.11
 	+ Updated DynamicBatteryStorage to 2.2.1
