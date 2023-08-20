@@ -1,5 +1,7 @@
 # CryoTanks :: Change Log
 
+* 2020-0220: 1.4.2 (Nertea) for KSP 1.8.
+	+ Added boiloff module to Procedural Tanks patch
 * 2020-0220: 1.4.1 (Nertea) for KSP 1.8.
 	+ KSP 1.8.x
 	+ Updated B9PartSwitch to 2.13.0
