@@ -1,5 +1,13 @@
 # CryoTanks :: Change Log
 
+* 2019-1106: 1.4.0 (Nertea) for KSP 1.8.
+	+ KSP 1.8.x
+	+ Updated B9PartSwitch to 2.12.1
+	+ Updated DynamicBatteryStorage to 2.1.0
+	+ Updated ModuleManger to 4.1.0
+	+ Updated CRP to 1.3.0
+	+ Updated .NET version to 4.5
+	+ Updated some MM patch specifiers
 * 2019-0911: 1.3.0 (Nertea) for KSP 1.6.1
 	+ Updated B9PartSwitch to 2.10.0
 	+ Updated DynamicBatteryStorage to 2.0.6
