@@ -1,5 +1,12 @@
 # CryoTanks :: Change Log
 
+* 2020-0503: 1.5.0 (Nertea) for KSP 1.8.
+	+ Updated DynamicBatteryStorage to 2.1.6
+	+ Updated B9PartSwitch to 2.16.0
+	+ Fixed a typo in large ISRU under methalox mode
+	+ Added ability to mark a tank in config as uncoolable (CoolingAllowed = false)
+	+ Added special handling to the MH/RS+ soyuz tanks to allow them to use the switcher even though they have an engine module
+	+ Tuned cost of LF-only tanks with the fuel switcher to be approximately $0.8/u (previously was 0.5)
 * 2020-0220: 1.4.2 (Nertea) for KSP 1.8.
 	+ Added boiloff module to Procedural Tanks patch
 * 2020-0220: 1.4.1 (Nertea) for KSP 1.8.
