@@ -1,5 +1,10 @@
 # CryoTanks :: Change Log
 
+* 2021-0723: 1.6.1 (Nertea) for KSP 1.11
+	+ Updated DynamicBatteryStorage to 2.2.4
+	+ Updated B9PartSwitch to 2.18.0
+	+ Improved the ISRU patches for LH2, LCH4, and combos thereof (yalov)
+	+ Improvements to Procedural Parts patches (tomasbrod)
 * 2021-0222: 1.6.0 (Nertea) for KSP 1.11
 	+ Updated DynamicBatteryStorage to 2.2.2
 	+ Methalox tankage is now enabled by default
