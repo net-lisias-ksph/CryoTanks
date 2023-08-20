@@ -1,5 +1,9 @@
 # CryoTanks :: Change Log
 
+* 2019-0529: 1.1.3 (Nertea) for KSP 1.6.1
+	+ Updated B9PartSwitch to 2.7.1
+	+ Added updates to Russian translation from Sool3
+	+ Improvements to LH2 switching patch which improves compatibility with mods that supply LH2/O tanks natively
 * 2019-0415: 1.1.2 (Nertea) for KSP 1.6.1
 	+ 1.7.x compatible
 	+ Added French translation (thanks Aodh4n)
