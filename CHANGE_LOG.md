@@ -1,5 +1,9 @@
 # CryoTanks :: Change Log
 
+* 2021-1007: 1.6.2 (Nertea) for KSP 1.11
+	+ Refactored boiloff code
+	+ Catchup calculation is more robust
+	+ Fixed inconsistency when displaying boiloff rate (was displayed using different units when power was out vs when cooling was disabled)
 * 2021-0723: 1.6.1 (Nertea) for KSP 1.11
 	+ Updated DynamicBatteryStorage to 2.2.4
 	+ Updated B9PartSwitch to 2.18.0
