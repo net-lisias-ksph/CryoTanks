@@ -1,5 +1,11 @@
 # CryoTanks :: Change Log
 
+* 2020-0801: 1.5.2 (Nertea) for KSP 1.10.
+	+ Marked for KSP 1.10.x
+	+ Improved MFT compatibility (dlrk2)
+	+ Updated DynamicBatteryStorage to 2.1.7
+	+ Updated ModuleManager to 4.1.4
+	+ Updated B9PartSwitch to 2.17.0
 * 2020-0513: 1.5.1 (Nertea) for KSP 1.8.
 	+ Fixed a testing flag being left on in 1.5.0
 * 2020-0503: 1.5.0 (Nertea) for KSP 1.8.
