@@ -1,5 +1,7 @@
 # CryoTanks :: Change Log
 
+* 2021-0114: 1.5.6 (Nertea) for KSP 1.11
+	+ Fix for KSP <1.11
 * 2020-1223: 1.5.5 (Nertea) for KSP 1.11
 	+ Fixed a problem in the MFT patch that broke the mod
 	+ Updated CRP to 1.4.2
