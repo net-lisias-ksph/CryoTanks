@@ -1,5 +1,9 @@
 # CryoTanks :: Change Log
 
+* 2019-0809: 1.2.3 (Nertea) for KSP 1.6.1
+	+ Updated DynamicBatteryStorage to 2.0.5
+	+ Added Chinese translation (6DYZBX)
+	+ Added LCH4 ISRU support (enabled with the same conditions as LCH4 tankage)
 * 2019-0731: 1.2.2 (Nertea) for KSP 1.6.1
 	+ Updated B9PartSwitch to 2.9.0
 	+ Updated DynamicBatteryStorage to 2.0.4
