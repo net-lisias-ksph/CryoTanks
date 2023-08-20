@@ -1,5 +1,20 @@
 # CryoTanks :: Change Log
 
+* 2019-0726: 1.2.0 (Nertea) for KSP 1.6.1
+	+ Updated B9PartSwitch to 2.8.1
+	+ Updated DynamicBatteryStorage to 2.0.2
+		- Added support for GenericFieldDataHandler     * Fixed FissionFlowRadiator adding heat to the simulation instead of removing it
+		- Fixed two instances of null reference exceptions when switching vessels/scenes
+	+ Fixed a localization typo
+	+ Tuned VAB UI part tooltip fields for boiloff module
+	+ Reworked textures of foil tanks to match Restock and Near Future Construction
+	+ Normalized grey to be similar to all my other mods
+	+ Recompressed all textures with better compression algorithm
+	+ Added optional simplistic draft Liquid Methane support
+		- Slightly cryogenic (1/10th the boiloff rate of Liquid Hydrogen)
+		- Similar mass ratio to Liquid Fuel (9)
+		- Higher cost ratio compared to Liquid Fuel (0.12 vs 0.1)
+		- Enabled by declaring any MM patch with :FOR[CryoTanksMethalox] or including a folder in GameData called CryoTanksMethalox
 * 2019-0709: 1.1.4 (Nertea) for KSP 1.6.1
 	+ Updated B9PartSwitch to 2.8.0
 	+ Updated DynamicBatteryStorage to 2.0.0
