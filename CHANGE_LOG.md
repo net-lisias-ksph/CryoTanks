@@ -1,5 +1,8 @@
 # CryoTanks :: Change Log
 
+* 2019-0729: 1.2.1 (Nertea) for KSP 1.6.1
+	+ Updated DynamicBatteryStorage to 2.0.3
+	+ Moved each ZBO tank to be one tech node above corresponding regular tank (Wyzard256's suggestion)
 * 2019-0726: 1.2.0 (Nertea) for KSP 1.6.1
 	+ Updated B9PartSwitch to 2.8.1
 	+ Updated DynamicBatteryStorage to 2.0.2
