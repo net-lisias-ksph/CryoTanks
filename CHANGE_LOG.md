@@ -1,5 +1,9 @@
 # CryoTanks :: Change Log
 
+* 2020-1220: 1.5.4 (Nertea) for KSP 1.11
+	+ KSP 1.11
+	+ Updated DynamicBatteryStorage to 2.2.1
+	+ Various MFT fixes by dlrk
 * 2020-1030: 1.5.3 (Nertea) for KSP 1.10.
 	+ Updated DynamicBatteryStorage to 2.1.10
 	+ Updated CRP to 1.4.1
